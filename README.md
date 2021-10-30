@@ -2,6 +2,7 @@
 
 En este repositorio se va a desarrollar el proyecto para el ciclo 4
 
-## A continuación se van a mencionar cada uno de los integrantes
+## A continuación se van a mencionar cada uno de los integrantes del equipo 3
 
 Fred Ervin Acosta Echeverria
+Christian Vanegas Echavarría
