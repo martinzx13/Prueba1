@@ -7,6 +7,7 @@
 ## Fred Ervin Acosta Echeverria
 ## Christian Vanegas Echavarría
 ## Juan Pablo Martinez Aldana
+## Sara Ximena Basto Hernandez
 
 *Documentación*
 
