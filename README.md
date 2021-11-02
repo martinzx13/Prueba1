@@ -8,6 +8,7 @@
 ## Christian Vanegas Echavarría
 ## Juan Pablo Martinez Aldana
 ## Sara Ximena Basto Hernandez
+## Daniel Santiago Carreño Briceño
 
 *Documentación*
 
